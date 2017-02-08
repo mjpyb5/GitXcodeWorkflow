@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     func sayHello(){
-        print("BYE BYE World")
+        print("BYE BYE! World")
     }
 
 
